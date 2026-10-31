@@ -1,0 +1,15 @@
+# Xcode local user state (already tracked files are not removed)
+**/xcuserdata/
+*.xcuserstate
+
+# Local builds and generated outputs
+DerivedData/
+build/
+.build/
+*.hmap
+*.ipa
+*.dSYM
+*.dSYM.zip
+.DS_Store
+
+# Shared xcshareddata/xcschemes files remain tracked.
